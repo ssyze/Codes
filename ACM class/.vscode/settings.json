@@ -1,7 +1,0 @@
-{
-    "editor.fontFamily": "Source Code Pro",
-    "editor.fontSize": 15,
-    "clang.cflags": ["-std=c++11"],
-    "C_Cpp.errorSquiggles": "Disabled"
-    
-}
